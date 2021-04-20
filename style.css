@@ -43,6 +43,9 @@
 
  .author-text {
      font-size: 22px;
+     float: left;
+     margin-top: 30px;
+     margin-left: 10px;
  }
 
  .container {
@@ -64,4 +67,15 @@
  .author-box {
      padding-top: 20px;
      border-top: 1px solid #808080;
+ }
+
+ .other {
+     margin-bottom: 40px;
+ }
+
+ .author-box img {
+     height: 100px;
+     width: 100px;
+     border-radius: 50%;
+     float: left;
  }
